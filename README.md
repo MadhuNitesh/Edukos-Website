@@ -54,7 +54,7 @@
 
     ### Student Request-Page : 
     
-    * Student can request concerned faculty for particular resources by entering Faculty Mail-id and Request message and faculty receive student request through E-Mail
+    * Student can request concerned faculty for particular resources by entering Faculty Mail-id and Request message and faculty receive student request through E-Mail.
     
     ![image](https://user-images.githubusercontent.com/84159067/122265063-ec32e580-cef5-11eb-8255-ea46c22074aa.png)
     
@@ -91,7 +91,7 @@
 
     ### Student & Faculty Forgot Password Page : 
     
-    * If faculty/student has forgotten their password they can enter create new password by entering their Rollno/Faculty-Id.
+    * If faculty/student has forgotten their password they can create new password by entering their Rollno/Faculty-Id.
     
     ![image](https://user-images.githubusercontent.com/84159067/122265932-dc67d100-cef6-11eb-8201-e61f54081ab6.png)
     
@@ -103,7 +103,7 @@
 
     ### Student & Faculty Change Password Page :
     
-    * After Entering Valid Otp student/faculty can change their passowrd.
+    * After Entering Valid OTP student/faculty can change their password.
     
     ![image](https://user-images.githubusercontent.com/84159067/122266364-5b5d0980-cef7-11eb-8e48-1997c197452b.png)
 
