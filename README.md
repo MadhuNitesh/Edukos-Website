@@ -1,7 +1,6 @@
 # Edukos-Website
   
   * This website provides the brightest way to get different notes on different topics of your regular academic as well as  GATE and regarding your placements along with             previous question papers.
-  * https://github.com/MadhuNitesh/Edukos-Website
   * There are mainly 3 types of users i.e student,faculty,admin and this website provides the users a very friendly user interface.
   * Student can access the materials that are provided by the faculty for their academic, placements and GATE preparations and can also go through the previous question papers       and can download them. They can also request the admin for some materials.
   * The role of faculty is to upload the materials that are necessary for students academics, placements and GATE preparations. They also have to upload the materials that are         requested by students.
